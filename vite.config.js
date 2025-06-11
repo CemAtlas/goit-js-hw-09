@@ -1,4 +1,4 @@
 
 export default {
-  base: './goit-js-hw-09/',
+  base: '/goit-js-hw-09/',
 };
